@@ -1,0 +1,18 @@
+site_name: Engr.Abdul Wahab | Portfolio
+# theme: mkdocs
+theme:
+  name: material
+  palette:
+    scheme: white
+    primary: blue
+    accent: cyan
+
+  
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Projects: projects.md
+      # - Project 1: ./projects/project1.md
+      # - Project 2: ./projects/project2.md
+  - Blog: blog.md
+  - Contact: contact.md
